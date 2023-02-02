@@ -7,7 +7,7 @@ In this project, we aim to develop a model that can predict the most appropriate
 ![Category and Subcategory](https://img.shields.io/badge/Clustering-Decisión%20Trees-yellow)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Personalized-Telecommunications-Offers-using-K-Nearest-Neighbors/master/reports/figures/Personalized-Telecommunications-Offers-using-K-Nearest-Neighbors.png" width="700" height="505" /><br>
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Optimizing-Drug-Prescription-through-Decision-Tree-Analysis/master/reports/figures/Optimizing-Drug-Prescription-through-Decision-Tree-Analysis.png" width="700" height="505" /><br>
 
 ## 🎊 Motivation:
 With the increasing demand for personalized medicine, the ability to predict the most effective drug for a patient is becoming increasingly important. This project provides a method for optimizing drug prescription and improving patient outcomes.
@@ -45,7 +45,7 @@ This project makes use of the scikit-learn library for decision tree implementat
 
 **Matplotlib documentation** - https://matplotlib.org/stable/contents.html
 
-**Link to Repository**: https://github.com/moreno32/Personalized-Telecommunications-Offers-using-K-Nearest-Neighbors.git
+**Link to Repository**: https://github.com/moreno32/Optimizing-Drug-Prescription-through-Decision-Tree-Analysis.git
 
 ## 🙋‍♂️ Contact me:
 <a href= mailto:danielmoreno3291@gmail.com> <img align="center" alt="Abhishek's LinkedIN" width="32px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" >
